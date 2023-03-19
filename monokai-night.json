@@ -41,6 +41,9 @@
         "BACKGROUND_MENTIONED": [
             "#f9267210"
         ],
+        "BACKGROUND_MESSAGE_HIGHLIGHT": [
+            "#66d9ef10"
+        ],
         "HEADER_PRIMARY": [
             "#f2f2f2"
         ],
