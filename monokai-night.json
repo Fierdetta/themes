@@ -38,6 +38,9 @@
         "BACKGROUND_MODIFIER_SELECTED": [
             "#262626"
         ],
+        "BACKGROUND_MENTIONED": [
+            "#f9267210"
+        ],
         "HEADER_PRIMARY": [
             "#f2f2f2"
         ],
